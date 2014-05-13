@@ -37,3 +37,10 @@ Example
     ./4x3: 6.jpg
     ./8x5: 1.jpg
     ./970x1533: 3.jpg
+
+
+### Daily Archive.scpt
+
+Script achives new added files with zip command. Files are moved to folder named current date, so you'll have archive with folders for each date.
+
+Warning: If you add some files with same name in a day old files will be removed with the latest one.
